@@ -3,4 +3,7 @@ console.log("teste para git");
 
 tuborLogger("estamos trabalhando com o git e GitHun", "orange");
 
-console.log("testando ainda");
+tuborLogger(
+  "testando as ramificações para o main original não sofrer alterações",
+  "green",
+);
