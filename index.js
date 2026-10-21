@@ -7,3 +7,4 @@ tuborLogger(
   "testando as ramificações para o main original não sofrer alterações",
   "green",
 );
+tuborLogger("fazendo alterações remotamente")
